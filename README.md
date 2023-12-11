@@ -1,2 +1,2 @@
 # IPAS
-IPA Signed for TTJB BOX
+IPA for TTJB BOX and TTJB IPA Repo
